@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lucashashimoto001@gmail.com**
 
-- Please note: This is my new GitHub account. I lost access to my previous account, which had a more detailed commit history.
+- Please note: This is my new GitHub account. I lost access to my previous one, which had a more detailed commit history.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
