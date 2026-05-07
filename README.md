@@ -113,20 +113,16 @@ Brazilian engineer working across the full stack — from **embedded systems and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=01Hash10&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=450" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=01Hash10&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=01Hash10&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Hash10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=01Hash10&theme=tokyonight&hide_border=true" />
+  <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Hash10&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=01Hash10&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=01Hash10&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=01Hash10&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="contribution graph" />
 </p>
 
 ---
